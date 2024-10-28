@@ -3,7 +3,7 @@ I'm a high-school IT student that enjoys creating a variety of projects.
 
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> <img width="50" src="https://www.herminos.site/_next/static/media/NASM.60abf161.svg">
  
- I'm a Python programmer, but i'm also trying to approach to C/C++ and (NASM) Assembly.
+ I'm a Python programmer, but i'm also trying to approach to C/C++.
 
 I have a YouTube channel too (I rarely upload there due to school), go check it out!
 [RepubblicaTech](https://youtube.com/@repubblicatech)
