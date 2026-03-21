@@ -14,7 +14,7 @@ It was my mainstream project (i also "made" [Apple86](github.com/RepubblicaTech/
 It took me a lot of time learning it (i also thought about [LogisimCTR](github.com/RepubblicaTech/LogisimCTR) in the meanwhile), and then, in August 2024, [purpleK2 (ex-rtos)](github.com/purplek2/kernel) became a thing.
 (go check it out btw)
 
-Today, i'm learning Python and C programming mainly, but i do a bit of HTML for my (Github Pages)[https://repubblicatech.github.io].
+Today, i'm learning Python and C programming mainly, but i do a bit of HTML for my [Github Pages](https://repubblicatech.github.io).
 
 I have a YouTube channel too (I rarely upload there due to school), go check it out!
 [RepubblicaTech](https://youtube.com/@repubblicatech)
