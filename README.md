@@ -16,13 +16,10 @@ It took me a lot of time learning it (i also thought about [LogisimCTR](github.c
 
 Today, i'm learning Python and C programming mainly, but i do a bit of HTML for my [Github Pages](https://repubblicatech.github.io).
 
-I have a YouTube channel too (I rarely upload there due to school), go check it out!
-[RepubblicaTech](https://youtube.com/@repubblicatech)
-
 <!---
 RepubblicaTech/RepubblicaTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RepubblicaTech&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![RepubblicaTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=RepubblicaTech&theme=dark)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RepubblicaTech&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![RepubblicaTech's GitHub stats](https://github-stats-extended.vercel.app/api?username=RepubblicaTech&theme=dark)
