@@ -1,7 +1,7 @@
 # Hi! I'm Omar (aka RepubblicaTech)
 I'm a high-school IT student that enjoys creating a variety of projects.
 
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>>
+<img width="50" src="https://devicons.io/devicons/icons/python.svg"/> <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/> <img width="50" src="https://devicons.io/devicons/icons/java.svg"/> <img width="50" src="https://devicons.io/devicons/icons/nasm.svg"/>
  
 My first programming language was Visual Basic (i was 10y/o) but i left it in the course of 4/5 months (i don't remember anything lol).
 
