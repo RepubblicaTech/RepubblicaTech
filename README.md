@@ -5,7 +5,7 @@ I'm a high-school IT student that enjoys creating a variety of projects.
  
 My first programming language was Visual Basic (i was 10y/o) but i left it in the course of 4/5 months (i don't remember anything lol).
 
-I spent 2 years going back and forth with HTML/CSS/JS and Linux (my first distro was Ubuntu 24.04 at 11y/o during the COVID quarantine).
+I spent 2 years going back and forth with HTML/CSS/JS and Linux (my first distro was Ubuntu 20.04 at 11y/o during the COVID quarantine).
 
 I then stumbled upon Python at 13y/o, and i was so intrigued by it (literally `omg i can take input and print it back`) i made this GH account to publish my first project: [PythonOS](github.com/RepubblicaTech/PyOS): an "operating system" (more like a command prompt with custom commands). 
 
